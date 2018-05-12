@@ -1,0 +1,30 @@
+_repo: A-History-of-American-Christianity_20160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bacon, Leonard Woolsey
+    alias: Bacon, L. W. (Leonard Woolsey)
+    birthdate: 1830
+    deathdate: 1907
+    gutenberg_agent_id: '232'
+    url: http://www.gutenberg.org/2009/agents/232
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Woolsey_Bacon
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2006-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Church history'
+- !lcc 'BR'
+- !lcsh 'United States -- Religion'
+title: A History of American Christianity
+url: http://www.gutenberg.org/ebooks/20160
